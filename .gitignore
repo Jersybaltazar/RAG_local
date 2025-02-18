@@ -1,0 +1,19 @@
+# Ignorar las carpetas 'models' y 'llm'
+models/
+llm/
+
+# Ignorar archivos temporales o generados por Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Archivos de entorno
+.env
+
+# Archivos de logs
+*.log
+
+# Ignorar otros directorios comunes
+.idea/
+.vscode/
